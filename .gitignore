@@ -1,0 +1,4 @@
+.env
+safe.env
+__pycache__/
+*.mp3
